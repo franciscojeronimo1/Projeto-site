@@ -61,6 +61,7 @@ h2.backh2 {
 p {
     text-align: justify;
     text-indent: 29px;
+    padding: 10px;
 }
 
 .dentro {
@@ -74,5 +75,7 @@ h3#ultimo { background-color: #2FA866;
 
 }
 .aa {
-    margin: 10px 10px 10px 200px;
+    margin: auto;
+    height: auto;
+    width: auto;
 }
